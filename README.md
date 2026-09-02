@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in my final year of Software Engineering at the University of Technology Sydney (UTS)<br>💻 I'm passionate about web development, building things that live on the internet — from front-end interfaces to back-end APIs<br>🌱 Currently deepening my skills in React, Node.js, and Java/Spring<br>🔭 Working on personal and uni projects to sharpen my full-stack skills<br>👀 Actively looking for graduate roles / internships in software engineering for 2026/2027
+I'm currently in my final year of Software Engineering at the University of Technology Sydney (UTS)<br>💻 I'm passionate about web development, building things that live on the internet from front-end interfaces to back-end APIs<br>🌱 Currently deepening my skills in React, Node.js, and Java/Spring<br>🔭 Working on personal and uni projects to sharpen my full-stack skills<br>👀 Actively looking for graduate roles / internships in software engineering for 2026/2027
 
 
 # 💻 Tech Stack:
