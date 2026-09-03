@@ -24,8 +24,7 @@ I'm currently in my final year of Software Engineering at the University of Tech
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=adamhussein1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=adamhussein1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=adamhussein1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
