@@ -24,7 +24,7 @@ I'm currently in my final year of Software Engineering at the University of Tech
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adamhussein1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=adamhussein1&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=adamhussein1&icon=0&colour=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
